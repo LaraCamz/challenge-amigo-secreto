@@ -91,5 +91,5 @@ function sortearAmigo() {
 - Melhorar o design com animações CSS.
 
 ## Autor
-Desenvolvido por Lara Camile.
+Desenvolvido por LaraCamz.
 
